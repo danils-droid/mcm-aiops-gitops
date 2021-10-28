@@ -154,10 +154,10 @@ pushd "${SCRIPTDIR}/.."
 
 #${SCRIPTDIR}/sync-manifests.sh
 
-#git add .
+git add .
 
-#git commit -m "Editing infrastructure definitions"
+git commit -m "Editing infrastructure definitions"
 
-#git push origin
+git push origin
 
 popd
