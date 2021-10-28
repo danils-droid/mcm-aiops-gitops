@@ -1,6 +1,6 @@
 resources:
 # Set RHACM Policies
-- argocd/policies/policies.yaml
+#- argocd/policies/policies.yaml
 
 ## Create RHACM Providers
 ## Include any Private or Public Cloud Providers you may have
